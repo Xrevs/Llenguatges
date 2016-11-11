@@ -5,7 +5,7 @@
 <title>El primer script</title>
  
 <script type="text/javascript">
-  alert("Hola, Ramis!");
+  alert("Hola, Eclipse!");
 </script>
 </head>
  

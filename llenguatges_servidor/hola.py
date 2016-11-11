@@ -1,3 +1,3 @@
 import stdio
 
-stdio.writeln('Hola Ramis!')
+stdio.writeln('Hola, Eclipse!')
